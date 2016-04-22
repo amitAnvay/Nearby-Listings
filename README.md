@@ -1,4 +1,3 @@
-# Nearby-Listings
 
 ![Alt text](/raw/output.gif?raw=true "Home Screen")
 
